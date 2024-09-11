@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\user\\OneDrive\\Desktop\\pb102_tasks\\c#-tasks\\EFConsoleApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F59A2201-11D7-45EA-AE98-45CF0EB853F7}|EFConsoleApp\\EFConsoleApp.csproj|c:\\users\\user\\onedrive\\desktop\\pb102_tasks\\c#-tasks\\efconsoleapp\\efconsoleapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F59A2201-11D7-45EA-AE98-45CF0EB853F7}|EFConsoleApp\\EFConsoleApp.csproj|solutionrelative:efconsoleapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F59A2201-11D7-45EA-AE98-45CF0EB853F7}|EFConsoleApp\\EFConsoleApp.csproj|c:\\users\\user\\onedrive\\desktop\\pb102_tasks\\c#-tasks\\efconsoleapp\\efconsoleapp\\controllers\\countrycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F59A2201-11D7-45EA-AE98-45CF0EB853F7}|EFConsoleApp\\EFConsoleApp.csproj|solutionrelative:efconsoleapp\\controllers\\countrycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F59A2201-11D7-45EA-AE98-45CF0EB853F7}|EFConsoleApp\\EFConsoleApp.csproj|c:\\users\\user\\onedrive\\desktop\\pb102_tasks\\c#-tasks\\efconsoleapp\\efconsoleapp\\services\\countryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F59A2201-11D7-45EA-AE98-45CF0EB853F7}|EFConsoleApp\\EFConsoleApp.csproj|solutionrelative:efconsoleapp\\services\\countryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F59A2201-11D7-45EA-AE98-45CF0EB853F7}|EFConsoleApp\\EFConsoleApp.csproj|c:\\users\\user\\onedrive\\desktop\\pb102_tasks\\c#-tasks\\efconsoleapp\\efconsoleapp\\services\\interfaces\\icountryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F59A2201-11D7-45EA-AE98-45CF0EB853F7}|EFConsoleApp\\EFConsoleApp.csproj|solutionrelative:efconsoleapp\\services\\interfaces\\icountryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ICountryService.cs",
+              "DocumentMoniker": "C:\\Users\\user\\OneDrive\\Desktop\\pb102_tasks\\c#-tasks\\EFConsoleApp\\EFConsoleApp\\Services\\Interfaces\\ICountryService.cs",
+              "RelativeDocumentMoniker": "EFConsoleApp\\Services\\Interfaces\\ICountryService.cs",
+              "ToolTip": "C:\\Users\\user\\OneDrive\\Desktop\\pb102_tasks\\c#-tasks\\EFConsoleApp\\EFConsoleApp\\Services\\Interfaces\\ICountryService.cs",
+              "RelativeToolTip": "EFConsoleApp\\Services\\Interfaces\\ICountryService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-11T18:54:08.761Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CountryController.cs",
+              "DocumentMoniker": "C:\\Users\\user\\OneDrive\\Desktop\\pb102_tasks\\c#-tasks\\EFConsoleApp\\EFConsoleApp\\Controllers\\CountryController.cs",
+              "RelativeDocumentMoniker": "EFConsoleApp\\Controllers\\CountryController.cs",
+              "ToolTip": "C:\\Users\\user\\OneDrive\\Desktop\\pb102_tasks\\c#-tasks\\EFConsoleApp\\EFConsoleApp\\Controllers\\CountryController.cs",
+              "RelativeToolTip": "EFConsoleApp\\Controllers\\CountryController.cs",
+              "ViewState": "AQIAACMAAAAAAAAAAAAkwDcAAABXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-11T18:27:04.283Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CountryService.cs",
+              "DocumentMoniker": "C:\\Users\\user\\OneDrive\\Desktop\\pb102_tasks\\c#-tasks\\EFConsoleApp\\EFConsoleApp\\Services\\CountryService.cs",
+              "RelativeDocumentMoniker": "EFConsoleApp\\Services\\CountryService.cs",
+              "ToolTip": "C:\\Users\\user\\OneDrive\\Desktop\\pb102_tasks\\c#-tasks\\EFConsoleApp\\EFConsoleApp\\Services\\CountryService.cs",
+              "RelativeToolTip": "EFConsoleApp\\Services\\CountryService.cs",
+              "ViewState": "AQIAABEAAAAAAAAAAAAQwCEAAAB/AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-11T18:05:10.27Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\user\\OneDrive\\Desktop\\pb102_tasks\\c#-tasks\\EFConsoleApp\\EFConsoleApp\\Program.cs",
+              "RelativeDocumentMoniker": "EFConsoleApp\\Program.cs",
+              "ToolTip": "C:\\Users\\user\\OneDrive\\Desktop\\pb102_tasks\\c#-tasks\\EFConsoleApp\\EFConsoleApp\\Program.cs",
+              "RelativeToolTip": "EFConsoleApp\\Program.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAAACEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-11T16:56:03.925Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
